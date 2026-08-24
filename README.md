@@ -1,2 +1,1 @@
-# perfil-da-dupla-pr
-aula github Fernando e Riquelme
+# Perfil Compartilhado do Time

@@ -1,2 +1,4 @@
-# perfil-da-dupla-pr
-aula github Fernando e Riquelme
+ # Projeto da Dupla em Branches
+Integrante 1
+- Nome: Fernando Assis
+- Linguagem favorita: MicroPython
